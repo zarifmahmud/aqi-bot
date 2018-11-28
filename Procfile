@@ -1,0 +1,1 @@
+worker: python aqiscraper_bot.py

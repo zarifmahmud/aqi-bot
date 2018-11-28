@@ -1,0 +1,5 @@
+requests>=2.20.0
+schedule==0.5.0
+praw==6.00
+prawcore==1.00
+typed-ast==1.1.0
