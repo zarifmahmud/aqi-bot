@@ -14,4 +14,6 @@ Calling on /u/aqi-bot "New Delhi" </body>
 <h4> Disclaimer </h4>
 <body> This bot is runs on PRAW, and gets its data from the World Air Quality Index project. It's only as good as its
 data, so the bot may return out of date information if the data isn't there yet, and so be sure to check out what
-date and time the info is accurate to, which will be included in aqi-bot's reply. </body
+date and time the info is accurate to, which will be included in aqi-bot's reply.
+\n \n To use the World Air Quality Index project's API, you'll need to get a free API key from their website. To get a Reddit bot running using PRAW, you'll need your own Reddit account, and feed in its username, password, client-id and client-secret to PRAW, which I store in a praw.ini file not included
+in the public repository. </body
