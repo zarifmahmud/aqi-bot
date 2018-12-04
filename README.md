@@ -4,7 +4,7 @@
 
 <h4> How to Use </h4>
 
-<body> (The bot is currently not online) To use the bot on Reddit, all you have to do is mention its name in your
+<body> To use the bot on Reddit, all you have to do is mention its name in your
 comment, and then put the name
 of the city whose AQI you want afterwards, in quotes. So to get the AQI for Beijing, you could write something like:
 Calling on /u/aqi-bot "New Delhi" </body>
