@@ -100,8 +100,8 @@ def aqi_bot_run():
                                  "\n \n Note that the input format for aqi-bot is: /u/aqi-bot '<city>'. ")
 
 
-schedule.every(20).seconds.do(aqi_bot_run)
+schedule.every(3).minutes.do(aqi_bot_run)
 
 while True:
     schedule.run_pending()
-    time.sleep(1)
+    time.sleep(20)
